@@ -4,7 +4,7 @@
 
 I'm a Software Developer student graduated in Trybe(betrybe.com)
 
-I have a passion for finding solutions!
-In my career, from the beginning, when I started in the commercial area, later in management consulting and later as an entrepreneur, it has always fascinated me and motivated me to listen carefully to the customer to identify their real need and thus find a solution with a positive impact for him and everyone involved. Today as a developer in the area of ​​programming and technology, I have the opportunity to find multiple paths using tools like 'HTML', 'CSS', 'JavaScript', 'React', 'SQL', 'MongoDB' 'NodeJS', to get the best results.to get the best results.
+I have a passion for finding solutions!</p>
+In my career, from the beginning, when I started in the commercial area, later in management consulting and later as an entrepreneur, it has always fascinated me and motivated me to listen carefully to the customer to identify their real need and thus find a solution with a positive impact for him and everyone involved.</p> Today as a developer in the area of ​​programming and technology, I have the opportunity to find multiple paths using tools like 'HTML', 'CSS', 'JavaScript', 'React', 'SQL', 'MongoDB' 'NodeJS', to get the best results.to get the best results.
 
 So, welcome and feel free to get to know some of my projects.
