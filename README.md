@@ -9,7 +9,7 @@ I'm a Software Developer student graduated in TRYBE (www.betrybe.com)
 <img src="https://media2.giphy.com/media/v0pjPifNejWspnnrJj/200w.webp" width="50"> 
 
 I have a passion for finding solutions!</p>
-In my career, from the beginning, when I started in the commercial area, later in management consulting and later as an entrepreneur, it has always fascinated me and motivated me to listen carefully to the customer to identify their real need and thus find a solution with a positive impact for him and everyone involved.</p> Today as a developer in the area of programming and technology, I have the opportunity to find multiple paths using tools to get the best results.to get the best results.
+In my career, from the beginning, when I started in the commercial area, later in management consulting and later as an entrepreneur, it has always fascinated me and motivated me to listen carefully to the customer to identify their real need and thus find a solution with a positive impact for him and everyone involved.</p> Today as a developer in the area of programming and technology, I have the opportunity to find multiple paths using tools to get the best results to get the best results.
 </p>
 
 ## Some tools used :
