@@ -29,6 +29,7 @@ In my career, from the beginning, when I started in the commercial area, later i
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
 
 
-</p>
-<h3 align="center">So welcome and feel free to get to know some of my projects.</h3>
+</p> 
+<br/>
+<h2 align="center">So welcome and feel free to get to know some of my projects.</h2>
 </body>
