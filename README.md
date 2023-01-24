@@ -1,5 +1,6 @@
 
 <div align="center"> <h2>Hi there 👋 I'm Vinícius but you can call me Vini or Vinicin!</h2></div>
+ <br/>
 <div align="center">
 <img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g" width="500"  />
 </div>
