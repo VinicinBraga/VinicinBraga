@@ -1,8 +1,10 @@
 
-<div align="center"> <h2>Hi there 👋 I'm Vinícius but you can call me Vini or Vinicin!</h2></div>
+<div align="center"> 
+ <h2>Hi there 👋 I'm Vinícius but you can call me Vini or Vinicin!</h2>
+</div>
  <br/>
 <div align="center">
-<img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g" width="500"  />
+ <img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g"  width="500"  />
 </div>
 </p>
 
@@ -32,4 +34,5 @@ In my career, from the beginning, when I started in the commercial area, later i
 </p> 
 <br/>
 <h2 align="center">So welcome and feel free to get to know some of my projects.</h2>
+<br/>
 </body>
