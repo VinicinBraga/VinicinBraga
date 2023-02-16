@@ -8,7 +8,7 @@
 </div>
 </p>
 
-I'm a Software Developer student graduated in TRYBE (www.betrybe.com)
+I'm a Web Developer student graduated in TRYBE (www.betrybe.com)
 <img src="https://media2.giphy.com/media/v0pjPifNejWspnnrJj/200w.webp" width="50"> 
 
 I am passionate about finding innovative solutions to the challenges that businesses and their clients face. From the beginning of my career, I have always been motivated to listen to the client's needs and find solutions that have a positive impact. As a technology developer, I can use my skills in HTML, CSS, Typescript, JavaScript, React, SQL, MongoDB, and NodeJS to achieve exceptional results. I believe that the combination of my passion for finding solutions and my technical skills allows me to be a great asset to any company.
