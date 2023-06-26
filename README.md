@@ -14,7 +14,7 @@ I'm a Web Developer student graduated in TRYBE (www.betrybe.com)
 I have a deep interest in discovering innovative solutions to the challenges faced by companies and their clients. Since the beginning of my career, my motivation has been to understand customer needs and offer solutions that have a positive impact. As a technology developer, I possess skills in HTML, CSS, Typescript, JavaScript, React, SQL, MongoDB, and NodeJS, which I can leverage to achieve significant results. I believe that the combination of my determination to find efficient solutions and my technical skill set can contribute significantly to a company's success.
 </p>
 
-## Some tools used :
+### Some tools used :
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
