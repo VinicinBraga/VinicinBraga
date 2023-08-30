@@ -8,7 +8,7 @@
 </div>
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-analytics-clipart-business-data-analyst-cartoon-vector-png-image_6796128.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
 
