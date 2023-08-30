@@ -21,7 +21,7 @@ So, if you're looking for an invitation to explore a repository of innovation an
 ## 📲 Contact
 
 <p align="left">
-  <a href="vinibm85@gmail.com" alt="Gmail">
+  <a href="mailto:vinibm85@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/vinícius-braga" alt="Linkedin">
