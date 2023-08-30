@@ -1,13 +1,12 @@
-
-## Hi, I'm Vinícius Braga!!
-
- 
-### Main Skills
-
-- DESENVOLVEDOR WEB - Full Stack ([Trybe Certified](https://www.credential.net/097410dd-bf86-4b81-9568-aba90ff1d915))
-- ANALISTA DE DADOS - ([Google Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile))
-
+# Hi, I'm Vinícius Braga!! 👋🏾
+<p align="center"> 
 <img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g"  width="500"  /> 
+
+## 	🎓 Main Skills
+
+- WEB DEVELOPER by TRYBE Full Stack ([Trybe Certified](https://www.credential.net/097410dd-bf86-4b81-9568-aba90ff1d915))
+- DATA ANALYST by GOOGLE ([Google Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile))
+
 <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-analytics-clipart-business-data-analyst-cartoon-vector-png-image_6796128.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
 
@@ -22,7 +21,7 @@ So, if you're looking for an invitation to explore a repository of innovation an
 ## 📲 Contact
 
 <p align="left">
-  <a href="" alt="Gmail">
+  <a href="vinibm85@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/vinícius-braga" alt="Linkedin">
