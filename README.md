@@ -1,4 +1,4 @@
-👋🏾<h1 align="center">Hi, I'm Vinícius Braga... </h1>
+ <h1 align="center"> 👋🏾 Hi, I'm Vinícius Braga... </h1>
   
 <p align="center"> 
 <img src="https://blog.imarticus.org/wp-content/uploads/2017/10/scopet.gif"  width="500"/> 
@@ -35,22 +35,8 @@ My skills encompass keen creative thinking and adeptness in problem-solving, rea
 ##  Some Skills 🚀
 
 <p align="center">
-<code><p align="middle" height= 60></p></code>  
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
-<code></code>
 
-<h2 align="center">So welcome and feel free to get to know some of my projects!</h2>
-
-|      Icon ID       |                         Icon                          |      Icon ID       |                         Icon                          |
+|      Skills      |                         Icon                          |      Skills       |                         Icon                          |
 | :----------------: | :---------------------------------------------------: | :----------------: | :---------------------------------------------------: |
 |     `Metabase`      |    <img height="32" src="https://pbs.twimg.com/profile_images/961380992727465985/4unoiuHt_400x400.jpg" alt="Metabase"/>    |    `PowerBi`      |    <img height="32" src="https://e7.pngegg.com/pngimages/252/727/png-clipart-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle.png" alt="PowerBi"/>    |
 |     `Javascrypt`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" alt="Javascript"/>   |    `Typescrypt`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TypeScript.svg" alt="Typescript"/>    |
@@ -58,3 +44,7 @@ My skills encompass keen creative thinking and adeptness in problem-solving, rea
 |     `HTML`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" alt="HTML5"/>   |    `CSS`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" alt="CSS"/>    |
 |     `Tailwind`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/TailwindCSS-Dark.svg" alt="Tailwind"/>    |    `React`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg" alt="React"/>    |
 |     `MySQL`      |   <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MySQL-Dark.svg" alt="MySQL"/>    |    `MongoDB`      |    <img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/MongoDB.svg" alt="MongoDB"/>   |
+
+
+<h2 align="center">So welcome and feel free to get to know some of my projects!</h2>
+
