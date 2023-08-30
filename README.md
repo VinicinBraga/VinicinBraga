@@ -1,22 +1,28 @@
-# Hi, I'm Vinícius Braga!! 👋🏾
+<h1 align="center">Hi, I'm Vinícius Braga... 👋🏾</h1>
+  
 <p align="center"> 
 <img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g"  width="500"  /> 
 
 ## 	🎓 Main Skills
 
-- WEB DEVELOPER BY TRYBE Full Stack ([Trybe Certified](https://www.credential.net/097410dd-bf86-4b81-9568-aba90ff1d915))
-- DATA ANALYST BY GOOGLE ([Google Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile))
+- WEB DEVELOPER BY TRYBE Full Stack : <img height="32" align="center"  src="https://theme.zdassets.com/theme_assets/9633455/ecf228e8c15da1a8bd07f574e675a0ac59330968.png" alt="Trybe"/> 
+([Certified](https://www.credential.net/097410dd-bf86-4b81-9568-aba90ff1d915))
+
+- DATA ANALYST BY GOOGLE : <img height="25" align="center" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google"/>
+([Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile)) 
+
+
 
 <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-analytics-clipart-business-data-analyst-cartoon-vector-png-image_6796128.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
 
-## 👤 About
-Hello, internet traveler! A developer passionate about challenges, a master in the art of code, and a lover of data analysis. Explore my GitHub to discover incredible solutions and embark together on this exciting digital journey!
-</p>
-My skills in creative thinking and problem-solving are at your disposal to create a positive impact for both companies and clients.
-</p>
-So, if you're looking for an invitation to explore a repository of innovation and creativity, I extend an invitation to check out my GitHub. Let's together venture through the digital world, one smile and one line of code at a time. I can't wait to share my technological adventures with you!
-</p>
+## 👤 About Me
+Hello there, esteemed internet explorer! I possess a strong fondness for data analysis and am a fervent development enthusiast, constantly in pursuit of exhilarating new challenges!
+
+I extend an invitation to you to delve into my GitHub repository, where you will discover remarkable solutions and the opportunity to join me on this thrilling digital journey!
+
+My skills encompass keen creative thinking and adeptness in problem-solving, ready to be employed in generating a positive impact for both businesses and clients. So, let's embark together on this exciting path!
+
 
 ## 📲 Contact
 
@@ -35,7 +41,6 @@ So, if you're looking for an invitation to explore a repository of innovation an
 
    <a href="https://www.facebook.com/vinicius.b.matta" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-</p>
 
 ## 🚀 Some Skills
 
@@ -50,7 +55,6 @@ So, if you're looking for an invitation to explore a repository of innovation an
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
----
-<br/>
-<h2 align="center">So welcome and feel free to get to know some of my projects.</h2>
-</body>
+<h2 align="center">So welcome and feel free to get to know some of my projects!</h2>
+
+
