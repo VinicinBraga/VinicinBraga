@@ -8,12 +8,12 @@
 - WEB DEVELOPER BY TRYBE Full Stack : <img height="32" align="center"  src="https://theme.zdassets.com/theme_assets/9633455/ecf228e8c15da1a8bd07f574e675a0ac59330968.png" alt="Trybe"/> 
 ([Certified](https://www.credential.net/097410dd-bf86-4b81-9568-aba90ff1d915))
 
-- DATA ANALYST BY GOOGLE : <img height="25" align="center" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google"/>
-([Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile)) 
+- DATA ANALYST BY GOOGLE : <img height="25" align="center" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google">
+([Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile))
 
 
 
-<img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-analytics-clipart-business-data-analyst-cartoon-vector-png-image_6796128.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./images/data-image-transformed.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
 
 ## 👤 About Me
