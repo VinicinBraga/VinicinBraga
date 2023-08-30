@@ -13,7 +13,7 @@
 
 
 
-<img src="./images/data-image.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./images/data-img.png" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
 
 ## 👤 About Me
