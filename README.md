@@ -17,7 +17,7 @@
 <p align="left"> 
 
 ## 👤 About Me
-Hello there, esteemed internet explorer! I possess a strong fondness for data analysis and am a fervent development enthusiast, constantly in pursuit of exhilarating new challenges!
+Hello there, esteemed internet explorer! I possess a strong fondness for **data analysis** and am a fervent **web development** enthusiast, constantly in pursuit of exhilarating new challenges!
 
 I extend an invitation to you to delve into my GitHub repository, where you will discover remarkable solutions and the opportunity to join me on this thrilling digital journey!
 
@@ -44,6 +44,7 @@ My skills encompass keen creative thinking and adeptness in problem-solving, rea
 
 ## 🚀 Some Skills
 
+<p align="center">
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
