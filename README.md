@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vinícius Braga... 👋🏾</h1>
   
 <p align="center"> 
-<img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g"  width="500"/> 
+<img src="https://blog.imarticus.org/wp-content/uploads/2017/10/scopet.gif"  width="500"/> 
 
 ## 	🎓 Main Skills
 - DATA ANALYST - BY <img height="25" align="center" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google">
