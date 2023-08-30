@@ -1,15 +1,14 @@
 
-<div align="center"> 
- <h2>Hi there 👋 I'm Vinícius but you can call me Vini or Vinicin!</h2>
-</div>
- <br/>
-<div align="center">
- <img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g"  width="500"  />
-</div>
-</p>
+## Hi, I'm Vinícius Braga!!
 
+ 
+### Main Skills
+
+- DESENVOLVEDOR WEB - Full Stack ([Trybe Certified](https://www.credential.net/097410dd-bf86-4b81-9568-aba90ff1d915))
+- ANALISTA DE DADOS - ([Google Certified](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile))
+
+<img src="https://media1.giphy.com/media/dUNNnf1vwvhRuGCBMb/giphy.gif?cid=ecf05e473p8jjttfiwz3s79axsmb7li86hbydsrojfze0axa&rid=giphy.gif&ct=g"  width="500"  /> 
 <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-analytics-clipart-business-data-analyst-cartoon-vector-png-image_6796128.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
 
 ## 👤 About
@@ -41,7 +40,6 @@ So, if you're looking for an invitation to explore a repository of innovation an
 
 ## 🚀 Some Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
