@@ -48,5 +48,6 @@ My skills encompass keen creative thinking and adeptness in problem-solving, rea
 
 <h2 align="center">So welcome and feel free to get to know some of my projects!</h2>
 
+
 <p align="center">
 <img src="https://media.tenor.com/eJJlgjXSSwgAAAAC/welcome-aboard-bus.gif" alt="bus"  width="500">
