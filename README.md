@@ -4,6 +4,8 @@
 <img src="https://blog.imarticus.org/wp-content/uploads/2017/10/scopet.gif"  width="500"/> 
 
 ## Credentials & Expertise 🎓
+- **DATA ANALYST BI** - Professional by <img height="40" align="center" src="https://pareto.io/wp-content/uploads/2023/01/pareto-logo-preto.png" alt="Google">
+([official site](https://pareto.io))
 - **DATA ANALYST** - Certified by <img height="40" align="center" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png" alt="Google">
 ([certificate](https://www.credly.com/badges/25a61142-5205-4eb7-b885-3ff84782f4e2/linked_in_profile))
 - **WEB DEVELOPER** -Certified by  <img height="56" align="center"  src="https://theme.zdassets.com/theme_assets/9633455/ecf228e8c15da1a8bd07f574e675a0ac59330968.png" alt="Trybe"/> 
